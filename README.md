@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chatai
 Chat AI
 いわゆるChatBot．
