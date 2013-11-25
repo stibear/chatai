@@ -1,0 +1,3 @@
+[submodule "mecab-dic-overdrive"]
+	path = mecab-dic-overdrive
+	url = git://github.com/nabokov/mecab-dic-overdrive.git
